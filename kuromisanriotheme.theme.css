@@ -1,0 +1,63 @@
+/**
+ * @name Kuromi_Sanrio_Theme
+ * @author Capivara5400
+ * @version 1.0.5
+ * @description Kuromi Sanrio Theme for Discord.
+ * @source https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css
+ * @invite Capivara5400
+ * @website https://github.com/CapivaraVtuber/kuromi-css-theme
+ * @BDEditor BasicBackground
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --background: url('https://i.imgur.com/BTN8jw1.jpeg');
+  --backgroundsize: cover;
+  --backgroundposition: center;
+  --backgroundblur: 0px;
+  --popout: url('https://i.imgur.com/BTN8jw1.jpeg');
+  --popoutsize: cover;
+  --backgroundposition: center;
+  --popoutblur: 25px;
+  --transparencycolor: 25,24,25;
+  --accentcolor: 117,97,125;
+  --backdrop: rgb(8,8,8,1);
+  --textshadow: rgb(24,21,24,1);
+  --transparencyalpha: 0.26;
+  --messagetransparency: 0.64;
+  --guildchanneltransparency: 0.15;
+  --chatinputtransparency: 0.5;
+  --memberlisttransparency: 0.26;
+  --font: Montserrat;
+  --textbrightest: 204,172,209;
+  --textbrighter: 184,119,195;
+  --textbright: 229,106,148;
+  --textdark: 189,152,203;
+  --textdarker: 251,144,182;
+  --textdarkest: 103,84,84;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 1px;
+  --rs-large-spacing: 4px;
+  --rs-small-width: 2.5px;
+  --rs-medium-width: 4.5px;
+  --rs-large-width: 4.5px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
